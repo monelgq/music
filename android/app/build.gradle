@@ -107,6 +107,7 @@ android {
     compileSdkVersion rootProject.ext.compileSdkVersion
 
     namespace "cn.toside.music.mobile"
+    compileSdkVersion 30
     defaultConfig {
         applicationId "cn.toside.music.mobile"
         minSdkVersion rootProject.ext.minSdkVersion
